@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Palindrome{
-    public static void main(String[] args){
+    public void palindrome(){
         Scanner input = new Scanner(System.in);
         int inputNumber = input.nextInt(); // The number to be checked
         int reverse = 0; // variable to store the number
