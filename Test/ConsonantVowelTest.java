@@ -20,7 +20,7 @@ public class ConsonantVowelTest {
         firsttestcase = null;
     }
     @Test
-    public void firsttestcase() {
+    public void firstTestCase() {
 
         String ap = firsttestcase.consonantvowel("ap");
         String answerexpected = "Vowel Consonant";
@@ -28,7 +28,7 @@ public class ConsonantVowelTest {
     }
 
     @Test
-    public void specialcharacterstring() {
+    public void specialCharacterString() {
 
         String secondcase = firsttestcase.consonantvowel("!!!");
         String answerexpected = "error error error";

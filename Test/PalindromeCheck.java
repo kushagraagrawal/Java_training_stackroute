@@ -13,7 +13,7 @@ public class PalindromeCheck {
     }
 
     @Test
-    public void notapalindromecheck() {
+    public void notaPalindromeCheck() {
        // Palindrome checkifpalindrome = new Palindrome();
 
         String testcase1 = checkifpalindrome.palindrome(12345);
@@ -25,7 +25,7 @@ public class PalindromeCheck {
     }
 
     @Test
-    public void isapalindromecheck() throws Exception {
+    public void isaPalindromeCheck() throws Exception {
        // Palindrome checkifpalindrome = new Palindrome();
         String testcase2 = checkifpalindrome.palindrome(12345654321L);
         String answer2 = 12345654321L + "is a palindrom and sum of even numbers is less than 25";
@@ -33,7 +33,7 @@ public class PalindromeCheck {
     }
 
     @Test
-    public void anotherpalindromecheck() throws Exception {
+    public void anotherPalindromeCheck() throws Exception {
        // Palindrome checkifpalindrome = new Palindrome();
         String testcase3 = checkifpalindrome.palindrome(2468642);
         String answer3 = 2468642 + "is a palindrome and sum of even numbers is greater than 25";

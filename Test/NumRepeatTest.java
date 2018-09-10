@@ -13,7 +13,7 @@ public class NumRepeatTest {
     }
 
     @Test
-    public void firsttestCase() {
+    public void firstTestCase() {
         String testcase1 = firstnumber.numrepeat(5);
         String answer1 = "1 2 2 3 3 3 4 4 4 4 5 5 5 5 5";
         Assert.assertEquals(testcase1, answer1);
@@ -21,7 +21,7 @@ public class NumRepeatTest {
     }
 
     @Test
-    public void secondtestCase() {
+    public void secondTestCase() {
         String testcase2 = firstnumber.numrepeat(-1);
         String answer2 = "";
         Assert.assertEquals(testcase2, answer2);
