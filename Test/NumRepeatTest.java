@@ -23,7 +23,7 @@ public class NumRepeatTest {
     @Test
     public void secondTestCase() {
         String testcase2 = firstnumber.numrepeat(-1);
-        String answer2 = "";
+        String answer2 = "Null";
         Assert.assertEquals(testcase2, answer2);
     }
 

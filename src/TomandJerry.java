@@ -1,20 +1,21 @@
 import java.util.Scanner;
 
 public class TomandJerry{
-    public void tomjerry(){
-        Scanner input = new Scanner(System.in);
-        int num = input.nextInt(); //num to be taken as input
+    public String tomjerry(int number){
+        //Scanner input = new Scanner(System.in);
+        int num = number; //num to be taken as input
 
         // Conditions to check if it lies in the range of 20 and 30 and if it is even or odd.
-
+        String answer="";
         if(num >= 20 && num <= 30){
             if(num%2==0)
-                System.out.println("Jerry");
+                answer = "Jerry";
             else
-                System.out.println("Tom");
+                answer = "Tom";
         }
         else{
-            System.out.println("error");
+            answer = "error";
         }
+        return answer;
     }
 }

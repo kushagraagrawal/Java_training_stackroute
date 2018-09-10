@@ -35,4 +35,17 @@ public class ConsonantVowelTest {
         Assert.assertEquals(secondcase, answerexpected);
     }
 
+    @Test
+    public void numericString() {
+        String numstring = firsttestcase.consonantvowel("3456");
+        String answerexpected = "error error error error";
+        Assert.assertEquals(numstring, answerexpected);
+    }
+
+    @Test
+    public void LongString() {
+        String LongString = firsttestcase.consonantvowel("Stringasoifugbvsdopgfusdpfohasf");
+        String answerexpected = "Consonant Consonant Consonant Vowel Consonant Consonant Vowel Consonant Vowel Vowel Consonant Vowel Consonant Consonant Consonant Consonant Consonant Vowel Consonant Consonant Consonant Vowel Consonant Consonant Consonant Consonant Vowel Consonant Vowel Consonant Consonant";
+        Assert.assertEquals(LongString, answerexpected);
+    }
 }

@@ -9,7 +9,7 @@ public class ConsonantVowel{
     public String consonantvowel(String querystring){
         Scanner input = new Scanner(System.in);
         String input_string = querystring; // String to be taken as input
-
+        input_string = input_string.toLowerCase();
         // String to check if characters are vowel or consonant.
         String answerstring = "";
 
