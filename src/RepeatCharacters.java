@@ -1,17 +1,27 @@
 import java.util.Scanner;
 
 public class RepeatCharacters{
-    public void repeatcharacters(){
-        String original_string;
-        int number;
-        Scanner input = new Scanner(System.in);
-        original_string = input.nextLine(); //Original String to be input
-        number = input.nextInt(); // Number of repetitions
+    public static String Repeatchar(String str, int x) {
 
-        int length = original_string.length(); // length of original string
-        System.out.print(original_string);
-        for(int i=0;i<number;i++){
-            System.out.print(original_string.substring(length-number)); //repeating the last "number" of characters "number" of times.
-        }
+        String answer;
+            /*String str;
+            Scanner s = new Scanner(System.in);
+            System.out.print("Enter a String:");
+            str = s.nextLine();
+            System.out.print("Enter a number");
+            int x = s.nextInt();*/
+        try {
+            answer = "";
+            int len = str.length();
+            answer = str;
+            //System.out.print(str.charAt(i));
+
+            for (int i = 0; i < x; i++) {
+                for (int j = len - x; j < len; j++)
+                    answer = answer + str.charAt(j);
+            }
+        }catch (Exception e){answer = "ERROR";};
+        return answer;
     }
+
 }
