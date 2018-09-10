@@ -1,23 +1,25 @@
 import java.util.Scanner;
 
 public class Palindrome{
-    public void palindrome(){
-        Scanner input = new Scanner(System.in);
-        int inputNumber = input.nextInt(); // The number to be checked
-        int reverse = 0; // variable to store the number
-        int temp; // temporary variable to store digit
-        int originalNumber = inputNumber; // to store inputNumber
+    public String palindrome(long num){
+        //Scanner input = new Scanner(System.in);
+        long inputNumber = num; // The number to be checked
+        long reverse = 0; // variable to store the number
+        long temp; // temporary variable to store digit
+        long originalNumber = inputNumber; // to store inputNumber
         while(inputNumber!=0){
             temp = inputNumber%10;
             reverse = reverse * 10 + temp;
             inputNumber/=10;
         }
-        boolean palindrome = false; //variable to check if number is palindrome
-        if(reverse == inputNumber);
-        palindrome = true;
+        boolean palindrome = false;
+        //System.out.println(reverse);
+        //System.out.println(originalNumber);//variable to check if number is palindrome
+        if(reverse == originalNumber)
+            palindrome = true;
 
-        int NumberEvenSum = 0; // Sum of even digits of number
-        int originalNumber2 = originalNumber; // to store the original number
+        long NumberEvenSum = 0; // Sum of even digits of number
+        long originalNumber2 = originalNumber; // to store the original number
 
         // Loop to store sum of even digits
         while(originalNumber!=0){
@@ -32,14 +34,20 @@ public class Palindrome{
 
         if(palindrome == true){
             if(greaterthan25 == true){
-                System.out.println(originalNumber2 + "is a palindrome and sum of even numbers is greater than 25");
+                String answer = originalNumber2 + "is a palindrome and sum of even numbers is greater than 25";
+                System.out.println(answer);
+                return answer;
             }
             else{
-                System.out.println(originalNumber2 + "is a palindrom and sum of even numbers is less than 25");
+                String answer = originalNumber2 + "is a palindrom and sum of even numbers is less than 25";
+                System.out.println(answer);
+                return answer;
             }
         }
         else{
-            System.out.println(originalNumber2 + "is not a palindrome");
+            String answer = originalNumber2 + "is not a palindrome";
+            System.out.println(answer);
+            return answer;
         }
     }
 }
