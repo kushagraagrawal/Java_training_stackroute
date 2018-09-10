@@ -24,10 +24,24 @@ public class SortNumberTest {
 
     @Test
     public void secondTestCase() {
-        String firstResult = numbertobesorted.sortnumber(23454);
-        String answer1 = "54432 10 False";
+        String firstResult = numbertobesorted.sortnumber(23464);
+        String answer1 = "64432 16 True";
         Assert.assertEquals(firstResult, answer1);
 
+    }
+
+    @Test
+    public void thirdTestCase() {
+        String firstResult = numbertobesorted.sortnumber(13579013579L);
+        String answer2 = "99775533110 0 False";
+        Assert.assertEquals(firstResult, answer2);
+    }
+
+    @Test
+    public void fourthTestCase() {
+        String fourthResult = numbertobesorted.sortnumber(-23456);
+        String answer4 = "-65432 12 False";
+        Assert.assertEquals(fourthResult, answer4);
     }
 
     @After

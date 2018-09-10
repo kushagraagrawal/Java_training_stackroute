@@ -1,26 +1,27 @@
-import java.util.Scanner;
 
 public class SortNumber{
-    public String sortnumber(int numbertosort){
-        int digits[] = new int[10];  // Array to store count of all Digits.
+    public String sortnumber(long numbertosort){
+        long digits[] = new long[10];  // Array to store count of all Digits.
         //Scanner input = new Scanner(System.in);
-        int number = numbertosort; // number in question
-        int temp; // temp variable to store digit.
+        long number = Math.abs(numbertosort); // number in question
+        long temp; // temp variable to store digit.
         while(number!=0){
             temp = number%10;
-            digits[temp]++;
+            digits[(int) temp]++;
             number/=10;
         }
         String answer="";
-        int even_sum=0; //Storing even sum of digits
+        if(numbertosort < 0)
+            answer += "-";
+        long even_sum=0; //Storing even sum of digits
         for(int i=9;i>=0;i--){
             if(i%2==0){
                 even_sum += (digits[i] * i); //Reversing number and adding even digits
-                for(int j=0;j<digits[i];j++)
+                for(long j=0;j<digits[i];j++)
                     answer += i;
             }
             else{
-                for(int j=0;j<digits[i];j++)
+                for(long j=0;j<digits[i];j++)
                     answer += i;
             }
         }
