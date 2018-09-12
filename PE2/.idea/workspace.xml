@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aac4598a-1869-4579-b4f6-8233f95676a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/ReadingFromAFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/isEvenCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindFrequencyWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReadingFromAFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TextFile.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/isEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/PalindromeCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/PalindromeCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/PE2/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PE2/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PE2/PalindromeCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/PE2/PalindromeCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Palindrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,25 +53,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4909" />
+          <entry key="java" value="5126" />
           <entry key="txt" value="215" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4909" />
+          <entry key="JAVA" value="5126" />
           <entry key="PLAIN_TEXT" value="215" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="15" />
+          <entry key="java" value="24" />
           <entry key="txt" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="24" />
           <entry key="PLAIN_TEXT" value="14" />
         </counts>
       </usages-collector>
@@ -85,19 +80,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FileFinder.java">
+        <entry file="file://$PROJECT_DIR$/Test/EfficientFactorialCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="43" selection-start-line="43" selection-end-line="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FindFrequencyWords.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+            <state relative-caret-position="206">
+              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,11 +91,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PowerOf4.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FindFrequencyWords.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="495">
+              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,8 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Palindrome.java" />
-        <option value="$PROJECT_DIR$/Test/PalindromeCheck.java" />
         <option value="$PROJECT_DIR$/src/PowerOf4.java" />
         <option value="$PROJECT_DIR$/Test/PowerOf4Check.java" />
         <option value="$PROJECT_DIR$/src/MemberAccess.java" />
@@ -149,6 +136,8 @@
         <option value="$PROJECT_DIR$/src/FileFinder.java" />
         <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/src/FindFrequencyWords.java" />
+        <option value="$PROJECT_DIR$/src/Palindrome.java" />
+        <option value="$PROJECT_DIR$/Test/PalindromeCheck.java" />
       </list>
     </option>
   </component>
@@ -180,6 +169,12 @@
             <path>
               <item name="PE2" type="b2602c69:ProjectViewProjectNode" />
               <item name="PE2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MemberAccess.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="PE2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PE2" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -194,7 +189,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536745865512" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536753647509" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -225,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindFrequencyWords">
+  <component name="RunManager" selected="JUnit.PalindromeCheck.nullcase">
     <configuration name="FileFinder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileFinder" />
       <module name="PE2" />
@@ -247,40 +242,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EfficientFactorialCheck.LargeNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE2" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="EfficientFactorialCheck" />
-      <option name="METHOD_NAME" value="LargeNumberTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="PalindromeCheck" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isEvenCheck.BasicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeCheck.nullcase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE2" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="isEvenCheck" />
-      <option name="METHOD_NAME" value="BasicTest" />
+      <option name="MAIN_CLASS_NAME" value="PalindromeCheck" />
+      <option name="METHOD_NAME" value="nullcase" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.EfficientFactorialCheck.LargeNumberTest" />
-      <item itemvalue="JUnit.isEvenCheck.BasicTest" />
       <item itemvalue="Application.ReadingFromAFile" />
       <item itemvalue="Application.FileFinder" />
       <item itemvalue="Application.FindFrequencyWords" />
+      <item itemvalue="JUnit.PalindromeCheck" />
+      <item itemvalue="JUnit.PalindromeCheck.nullcase" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PalindromeCheck.nullcase" />
+        <item itemvalue="JUnit.PalindromeCheck" />
         <item itemvalue="Application.FindFrequencyWords" />
         <item itemvalue="Application.FileFinder" />
         <item itemvalue="Application.ReadingFromAFile" />
-        <item itemvalue="JUnit.isEvenCheck.BasicTest" />
-        <item itemvalue="JUnit.EfficientFactorialCheck.LargeNumberTest" />
       </list>
     </recent_temporary>
   </component>
@@ -298,12 +291,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 12h 07m 19s.xml">
-      <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 12h 07m 50s.xml">
-      <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 12h 08m 02s.xml">
       <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
     </history-entry>
@@ -328,12 +315,18 @@
     <history-entry file="isEvenCheck_BasicTest - 2018.09.12 at 12h 42m 59s.xml">
       <configuration name="isEvenCheck.BasicTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="PalindromeCheck - 2018.09.12 at 15h 27m 52s.xml">
+      <configuration name="PalindromeCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PalindromeCheck_nullcase - 2018.09.12 at 15h 30m 29s.xml">
+      <configuration name="PalindromeCheck.nullcase" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24924242" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24924242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -341,7 +334,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3431677" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3431677" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -389,34 +382,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/PowerOf4Check.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="36" column="41" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/Member_VariableTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MemberAccess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -440,34 +409,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindAllFactorials.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/isEven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/isEvenCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="20" column="51" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/EfficientFactorialCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -484,16 +429,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" selection-start-column="24" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/PalindromeCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="37" column="41" selection-start-line="37" selection-start-column="41" selection-end-line="37" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -514,20 +449,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/PowerOf4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FileFinder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -535,10 +456,82 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/FileFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindAllFactorials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/PalindromeCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="44" column="41" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MemberAccess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/isEven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PowerOf4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/Member_VariableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/EfficientFactorialCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/FindFrequencyWords.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="39" column="16" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        <state relative-caret-position="495">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

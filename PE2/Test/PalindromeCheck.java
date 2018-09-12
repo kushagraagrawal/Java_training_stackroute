@@ -37,4 +37,11 @@ public class PalindromeCheck {
         boolean answer = false;
         Assert.assertEquals(check, answer);
     }
+
+    @Test
+    public void nullcase() {
+        boolean check = p.isPalindrome("");
+        boolean answer = false;
+        Assert.assertEquals(check, answer);
+    }
 }
