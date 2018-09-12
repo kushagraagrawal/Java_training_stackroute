@@ -30,5 +30,10 @@ public class PowerOf4Check {
         boolean answer = false;
         Assert.assertEquals(check, answer);
     }
-
+    @Test
+    public void LongPowerOf4(){
+        boolean check = p.checkIfPowerOf4(1048576);
+        boolean answer = true;
+        Assert.assertEquals(check, answer);
+    }
 }
