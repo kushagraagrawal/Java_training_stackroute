@@ -25,12 +25,19 @@ public class EfficientFactorialCheck {
         long actualAnswer = 21L;
         Assert.assertEquals(expectedAnswer, actualAnswer);
     }
-    /*
+
     @Test
     public void SmallNumberTest() {
-        int expectedAnswer = p.findFinalFactorial(5);
-        int actualAnswer = 5;
+        long expectedAnswer = p.findFinalFactorial(14L);
+        long actualAnswer = 14L;
         Assert.assertEquals(expectedAnswer, actualAnswer);
     }
-    */
+
+    @Test
+    public void LargeNumberTest() {
+        long expectedAnswer = p.findFinalFactorial(500L);
+        long actualAnswer = 21L;
+        Assert.assertEquals(expectedAnswer, actualAnswer);
+    }
+
 }

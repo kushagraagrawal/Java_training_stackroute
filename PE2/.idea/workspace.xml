@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aac4598a-1869-4579-b4f6-8233f95676a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/EfficientFactorialCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/Member_VariableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/StudentGradesCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindAllFactorials.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MemberAccess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentGrades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/PowerOf4Check.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/PowerOf4Check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE2/PowerOf4Check.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/PE2/PowerOf4Check.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/EfficientFactorialCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/Test/EfficientFactorialCheck.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,12 +49,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2225" />
+          <entry key="java" value="2274" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2225" />
+          <entry key="JAVA" value="2274" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -83,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/EfficientFactorialCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+            <state relative-caret-position="311">
+              <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindAllFactorials.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
+            <state relative-caret-position="330">
               <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
             </state>
           </provider>
@@ -125,8 +116,8 @@
         <option value="$PROJECT_DIR$/Test/Member_VariableTest.java" />
         <option value="$PROJECT_DIR$/src/StudentGrades.java" />
         <option value="$PROJECT_DIR$/Test/StudentGradesCheck.java" />
-        <option value="$PROJECT_DIR$/Test/EfficientFactorialCheck.java" />
         <option value="$PROJECT_DIR$/src/FindAllFactorials.java" />
+        <option value="$PROJECT_DIR$/Test/EfficientFactorialCheck.java" />
       </list>
     </option>
   </component>
@@ -172,7 +163,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536734305725" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536735931210" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -203,12 +194,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EfficientFactorialCheck.BasicTest">
+  <component name="RunManager" selected="JUnit.EfficientFactorialCheck.LargeNumberTest">
     <configuration name="EfficientFactorialCheck.BasicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE2" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="EfficientFactorialCheck" />
       <option name="METHOD_NAME" value="BasicTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EfficientFactorialCheck.LargeNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="EfficientFactorialCheck" />
+      <option name="METHOD_NAME" value="LargeNumberTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -232,16 +233,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOf4Check.LongPowerOf4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE2" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PowerOf4Check" />
-      <option name="METHOD_NAME" value="LongPowerOf4" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StudentGradesCheck.BasicTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE2" />
       <option name="PACKAGE_NAME" value="" />
@@ -253,19 +244,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.PowerOf4Check.LongPowerOf4" />
       <item itemvalue="JUnit.Member_VariableTest" />
       <item itemvalue="JUnit.StudentGradesCheck.BasicTest" />
       <item itemvalue="JUnit.EfficientFactorialCheck.BasicTest" />
       <item itemvalue="JUnit.EfficientFactorialCheck.SmallNumberTest" />
+      <item itemvalue="JUnit.EfficientFactorialCheck.LargeNumberTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.EfficientFactorialCheck.BasicTest" />
+        <item itemvalue="JUnit.EfficientFactorialCheck.LargeNumberTest" />
         <item itemvalue="JUnit.EfficientFactorialCheck.SmallNumberTest" />
+        <item itemvalue="JUnit.EfficientFactorialCheck.BasicTest" />
         <item itemvalue="JUnit.StudentGradesCheck.BasicTest" />
         <item itemvalue="JUnit.Member_VariableTest" />
-        <item itemvalue="JUnit.PowerOf4Check.LongPowerOf4" />
       </list>
     </recent_temporary>
   </component>
@@ -283,24 +274,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 11h 54m 31s.xml">
-      <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 11h 54m 55s.xml">
-      <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 11h 59m 40s.xml">
-      <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 12h 01m 07s.xml">
-      <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 12h 01m 25s.xml">
-      <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EfficientFactorialCheck_SmallNumberTest - 2018.09.12 at 12h 03m 07s.xml">
-      <configuration name="EfficientFactorialCheck.SmallNumberTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="EfficientFactorialCheck_SmallNumberTest - 2018.09.12 at 12h 03m 18s.xml">
       <configuration name="EfficientFactorialCheck.SmallNumberTest" configurationId="JUnit" />
     </history-entry>
@@ -312,6 +285,24 @@
     </history-entry>
     <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 12h 06m 51s.xml">
       <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 12h 07m 19s.xml">
+      <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 12h 07m 50s.xml">
+      <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EfficientFactorialCheck_BasicTest - 2018.09.12 at 12h 08m 02s.xml">
+      <configuration name="EfficientFactorialCheck.BasicTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EfficientFactorialCheck_SmallNumberTest - 2018.09.12 at 12h 13m 37s.xml">
+      <configuration name="EfficientFactorialCheck.SmallNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EfficientFactorialCheck_SmallNumberTest - 2018.09.12 at 12h 14m 20s.xml">
+      <configuration name="EfficientFactorialCheck.SmallNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EfficientFactorialCheck_LargeNumberTest - 2018.09.12 at 12h 15m 50s.xml">
+      <configuration name="EfficientFactorialCheck.LargeNumberTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -372,18 +363,6 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Test/EfficientFactorialCheck.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
@@ -456,15 +435,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/FindAllFactorials.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
+        <state relative-caret-position="330">
           <caret line="22" column="16" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/EfficientFactorialCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="34" column="6" selection-start-line="34" selection-start-column="6" selection-end-line="34" selection-end-column="6" />
+        <state relative-caret-position="311">
+          <caret line="38" column="30" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
