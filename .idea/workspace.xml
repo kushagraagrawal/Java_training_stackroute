@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2065b506-1973-4797-9003-f311766d6f9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FirstAndLastDayOfWeek.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/MatrixSumCheck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/PE3/MatrixSumCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MatrixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,7 +28,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="22" />
+          <entry key="java" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -41,7 +39,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="22" />
+          <entry key="JAVA" value="23" />
         </counts>
       </usages-collector>
     </session>
@@ -49,23 +47,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MatrixSum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
-              <folding>
-                <element signature="e#112#113#0" expanded="true" />
-                <element signature="e#135#136#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/StudentMarks.java">
+        <entry file="file://$PROJECT_DIR$/src/FirstAndLastDayOfWeek.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+              <caret column="34" selection-start-column="34" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -103,8 +88,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="507" />
-    <option name="y" value="107" />
+    <option name="x" value="540" />
+    <option name="y" value="91" />
     <option name="width" value="681" />
     <option name="height" value="756" />
   </component>
@@ -128,12 +113,6 @@
             <path>
               <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Training" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="StudentMarks.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Java_Training" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -149,7 +128,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537176567280" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537178416370" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
   </component>
@@ -176,9 +155,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MatrixSum">
-    <configuration name="ChessboardPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChessboardPattern" />
+  <component name="RunManager" selected="Application.FirstAndLastDayOfWeek">
+    <configuration name="FirstAndLastDayOfWeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FirstAndLastDayOfWeek" />
       <module name="PE3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -222,19 +201,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ChessboardPattern" />
       <item itemvalue="JUnit.ExceptionChecking.sanityCheck" />
       <item itemvalue="JUnit.ExceptionChecking.negativeIndexCheck" />
       <item itemvalue="JUnit.ExceptionChecking.nullPointerCheck" />
       <item itemvalue="Application.MatrixSum" />
+      <item itemvalue="Application.FirstAndLastDayOfWeek" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FirstAndLastDayOfWeek" />
         <item itemvalue="Application.MatrixSum" />
         <item itemvalue="JUnit.ExceptionChecking.nullPointerCheck" />
         <item itemvalue="JUnit.ExceptionChecking.negativeIndexCheck" />
         <item itemvalue="JUnit.ExceptionChecking.sanityCheck" />
-        <item itemvalue="Application.ChessboardPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -285,8 +264,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23863636" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23863636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -295,7 +275,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32919255" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -463,12 +443,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MatrixSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+        <state relative-caret-position="255">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
           <folding>
             <element signature="e#112#113#0" expanded="true" />
             <element signature="e#135#136#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FirstAndLastDayOfWeek.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
         </state>
       </provider>
     </entry>
