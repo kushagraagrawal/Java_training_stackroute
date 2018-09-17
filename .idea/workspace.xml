@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/Test/ConsonantVowelTest.java" line="51" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4230fec-ddad-48aa-bc81-e6296d087ae5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/RecognizeCharTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/RepeatCharactersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/ReverseStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/UnspecifiedSumTest.java" afterDir="false" />
+    <list default="true" id="2065b506-1973-4797-9003-f311766d6f9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Test/ConsecutiveNumbersCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/LastDateCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/MatrixSumCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/RemoveVowelsCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/StudentMarksCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConsecutiveNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExceptionHandlingPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MatrixSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RemoveVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StudentMarks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/First_Project/RepeatCharacters.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First_Project/RepeatCharacters.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/First_Project/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First_Project/ReverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/First_Project/UnspecifiedSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/First_Project/UnspecifiedSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RecognizeChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RecognizeChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RepeatCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RepeatCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UnspecifiedSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UnspecifiedSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PE2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PE2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,55 +25,44 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="-858206698">
+    <session id="220593306">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.18" value="2" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="5" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="10937" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10937" />
+          <entry key="JAVA" value="2658" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="85" />
+          <entry key="java" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages" />
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2658" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="85" />
+          <entry key="JAVA" value="14" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ReverseString.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Test/RemoveVowelsCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Test/ReverseStringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state relative-caret-position="315">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,19 +71,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RecognizeChar.java">
+        <entry file="file://$PROJECT_DIR$/src/RemoveVowels.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/RecognizeCharTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
+            <state relative-caret-position="360">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,7 +88,6 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -116,107 +97,62 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/helloworld.java" />
-        <option value="$PROJECT_DIR$/src/Reversestring.java" />
-        <option value="$PROJECT_DIR$/src/Repeatcharacters.java" />
-        <option value="$PROJECT_DIR$/src/Sortnumber.java" />
-        <option value="$PROJECT_DIR$/src/Recognizechar.java" />
-        <option value="$PROJECT_DIR$/src/Unspecifiedsum.java" />
-        <option value="$PROJECT_DIR$/src/Numrepeat.java" />
-        <option value="$PROJECT_DIR$/src/Guessnumber.java" />
-        <option value="$PROJECT_DIR$/src/Test/Firsttestifle.java" />
-        <option value="$PROJECT_DIR$/src/Test/TestRunner.java" />
-        <option value="$PROJECT_DIR$/src/MyClassTest.java" />
-        <option value="$PROJECT_DIR$/src/App.java" />
-        <option value="$PROJECT_DIR$/Test/TestUnit.java" />
-        <option value="$PROJECT_DIR$/Test/FirstTestClass.java" />
-        <option value="$PROJECT_DIR$/src/Mood.java" />
-        <option value="$PROJECT_DIR$/src/Assignment1.java" />
-        <option value="$PROJECT_DIR$/src/Palindrome.java" />
-        <option value="$PROJECT_DIR$/Test/ConsonantVowel.java" />
-        <option value="$PROJECT_DIR$/Test/PalindromeTest.java" />
-        <option value="$PROJECT_DIR$/Test/GuessNumberTest.java" />
-        <option value="$PROJECT_DIR$/Test/PalindromeCheck.java" />
-        <option value="$PROJECT_DIR$/src/SortNumber.java" />
-        <option value="$PROJECT_DIR$/Test/SortNumberTest.java" />
-        <option value="$PROJECT_DIR$/src/TomandJerry.java" />
-        <option value="$PROJECT_DIR$/Test/TomandJerryTest.java" />
-        <option value="$PROJECT_DIR$/src/ConsonantVowel.java" />
-        <option value="$PROJECT_DIR$/Test/ConsonantVowelTest.java" />
-        <option value="$PROJECT_DIR$/src/NumRepeat.java" />
-        <option value="$PROJECT_DIR$/Test/NumRepeatTest.java" />
-        <option value="$PROJECT_DIR$/src/UnspecifiedSum.java" />
-        <option value="$PROJECT_DIR$/Test/UnspecifiedSumTest.java" />
-        <option value="$PROJECT_DIR$/src/RepeatCharacters.java" />
-        <option value="$PROJECT_DIR$/Test/RepeatCharactersTest.java" />
-        <option value="$PROJECT_DIR$/Test/ReverseStringTest.java" />
-        <option value="$PROJECT_DIR$/src/ReverseString.java" />
-        <option value="$PROJECT_DIR$/src/RecognizeChar.java" />
-        <option value="$PROJECT_DIR$/Test/RecognizeCharTest.java" />
+        <option value="$PROJECT_DIR$/src/StudentMarks.java" />
+        <option value="$PROJECT_DIR$/Test/StudentMarksCheck.java" />
+        <option value="$PROJECT_DIR$/src/MatrixSum.java" />
+        <option value="$PROJECT_DIR$/src/ExceptionHandlingPractice.java" />
+        <option value="$PROJECT_DIR$/Test/MatrixSumCheck.java" />
+        <option value="$PROJECT_DIR$/src/ConsecutiveNumbers.java" />
+        <option value="$PROJECT_DIR$/Test/ConsecutiveNumbersCheck.java" />
+        <option value="$PROJECT_DIR$/src/RemoveVowels.java" />
+        <option value="$PROJECT_DIR$/Test/RemoveVowelsCheck.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="700" />
-    <option name="y" value="73" />
+    <option name="x" value="507" />
+    <option name="y" value="107" />
     <option name="width" value="681" />
-    <option name="height" value="724" />
+    <option name="height" value="756" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="First_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="First_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Training" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="First_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="First_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Training" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="First_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="First_Project" type="462c0819:PsiDirectoryNode" />
+              <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Training" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="First_Project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536582566719" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537167879238" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
@@ -233,63 +169,71 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RecognizeCharTest">
-    <configuration name="RecognizeCharTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="First_Project" />
+  <component name="RunManager" selected="JUnit.RemoveVowelsCheck.sanityCheck">
+    <configuration name="ConsecutiveNumbersCheck.consecutiveCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RecognizeCharTest" />
+      <option name="MAIN_CLASS_NAME" value="ConsecutiveNumbersCheck" />
+      <option name="METHOD_NAME" value="consecutiveCheck" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RepeatCharactersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="First_Project" />
+    <configuration name="ConsecutiveNumbersCheck.negativeNumbersCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RepeatCharactersTest" />
+      <option name="MAIN_CLASS_NAME" value="ConsecutiveNumbersCheck" />
+      <option name="METHOD_NAME" value="negativeNumbersCheck" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="First_Project" />
+    <configuration name="ConsecutiveNumbersCheck.repeatedElementCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ReverseStringTest" />
+      <option name="MAIN_CLASS_NAME" value="ConsecutiveNumbersCheck" />
+      <option name="METHOD_NAME" value="repeatedElementCheck" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnspecifiedSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="First_Project" />
+    <configuration name="ConsecutiveNumbersCheck.sanityCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UnspecifiedSumTest" />
+      <option name="MAIN_CLASS_NAME" value="ConsecutiveNumbersCheck" />
+      <option name="METHOD_NAME" value="sanityCheck" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UnspecifiedSumTest.testGeneral" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="First_Project" />
+    <configuration name="RemoveVowelsCheck.sanityCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PE3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UnspecifiedSumTest" />
-      <option name="METHOD_NAME" value="testGeneral" />
+      <option name="MAIN_CLASS_NAME" value="RemoveVowelsCheck" />
+      <option name="METHOD_NAME" value="sanityCheck" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.UnspecifiedSumTest.testGeneral" />
-      <item itemvalue="JUnit.UnspecifiedSumTest" />
-      <item itemvalue="JUnit.RepeatCharactersTest" />
-      <item itemvalue="JUnit.ReverseStringTest" />
-      <item itemvalue="JUnit.RecognizeCharTest" />
+      <item itemvalue="JUnit.ConsecutiveNumbersCheck.sanityCheck" />
+      <item itemvalue="JUnit.ConsecutiveNumbersCheck.consecutiveCheck" />
+      <item itemvalue="JUnit.ConsecutiveNumbersCheck.repeatedElementCheck" />
+      <item itemvalue="JUnit.ConsecutiveNumbersCheck.negativeNumbersCheck" />
+      <item itemvalue="JUnit.RemoveVowelsCheck.sanityCheck" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RecognizeCharTest" />
-        <item itemvalue="JUnit.ReverseStringTest" />
-        <item itemvalue="JUnit.RepeatCharactersTest" />
-        <item itemvalue="JUnit.UnspecifiedSumTest" />
-        <item itemvalue="JUnit.UnspecifiedSumTest.testGeneral" />
+        <item itemvalue="JUnit.RemoveVowelsCheck.sanityCheck" />
+        <item itemvalue="JUnit.ConsecutiveNumbersCheck.negativeNumbersCheck" />
+        <item itemvalue="JUnit.ConsecutiveNumbersCheck.repeatedElementCheck" />
+        <item itemvalue="JUnit.ConsecutiveNumbersCheck.consecutiveCheck" />
+        <item itemvalue="JUnit.ConsecutiveNumbersCheck.sanityCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -298,67 +242,64 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b4230fec-ddad-48aa-bc81-e6296d087ae5" name="Default Changelist" comment="" />
-      <created>1536296213547</created>
+      <changelist id="2065b506-1973-4797-9003-f311766d6f9e" name="Default Changelist" comment="" />
+      <created>1537157245995</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536296213547</updated>
+      <updated>1537157245995</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TomandJerryTest_firstTestCase - 2018.09.10 at 17h 14m 59s.xml">
-      <configuration name="TomandJerryTest.firstTestCase" configurationId="JUnit" />
+    <history-entry file="StudentMarksCheck_PassStudentGrades - 2018.09.17 at 11h 14m 36s.xml">
+      <configuration name="StudentMarksCheck.PassStudentGrades" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TomandJerryTest_secondTestCase - 2018.09.10 at 17h 27m 29s.xml">
-      <configuration name="TomandJerryTest.secondTestCase" configurationId="JUnit" />
+    <history-entry file="ConsecutiveNumbersCheck_sanityCheck - 2018.09.17 at 12h 13m 00s.xml">
+      <configuration name="ConsecutiveNumbersCheck.sanityCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsonantVowelTest_LongString - 2018.09.10 at 17h 32m 11s.xml">
-      <configuration name="ConsonantVowelTest.LongString" configurationId="JUnit" />
+    <history-entry file="ConsecutiveNumbersCheck_consecutiveCheck - 2018.09.17 at 12h 14m 24s.xml">
+      <configuration name="ConsecutiveNumbersCheck.consecutiveCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ConsonantVowelTest_LongString - 2018.09.10 at 17h 32m 40s.xml">
-      <configuration name="ConsonantVowelTest.LongString" configurationId="JUnit" />
+    <history-entry file="ConsecutiveNumbersCheck_repeatedElementCheck - 2018.09.17 at 12h 15m 45s.xml">
+      <configuration name="ConsecutiveNumbersCheck.repeatedElementCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumRepeatTest_secondTestCase - 2018.09.10 at 17h 34m 21s.xml">
-      <configuration name="NumRepeatTest.secondTestCase" configurationId="JUnit" />
+    <history-entry file="ConsecutiveNumbersCheck_negativeNumbersCheck - 2018.09.17 at 12h 16m 52s.xml">
+      <configuration name="ConsecutiveNumbersCheck.negativeNumbersCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UnspecifiedSumTest_testGeneral - 2018.09.10 at 17h 44m 01s.xml">
-      <configuration name="UnspecifiedSumTest.testGeneral" configurationId="JUnit" />
+    <history-entry file="RemoveVowelsCheck_sanityCheck - 2018.09.17 at 12h 32m 29s.xml">
+      <configuration name="RemoveVowelsCheck.sanityCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UnspecifiedSumTest - 2018.09.10 at 17h 44m 06s.xml">
-      <configuration name="UnspecifiedSumTest" configurationId="JUnit" />
+    <history-entry file="RemoveVowelsCheck_sanityCheck - 2018.09.17 at 12h 32m 46s.xml">
+      <configuration name="RemoveVowelsCheck.sanityCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RepeatCharactersTest - 2018.09.10 at 17h 46m 35s.xml">
-      <configuration name="RepeatCharactersTest" configurationId="JUnit" />
+    <history-entry file="RemoveVowelsCheck_sanityCheck - 2018.09.17 at 12h 32m 56s.xml">
+      <configuration name="RemoveVowelsCheck.sanityCheck" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="ReverseStringTest - 2018.09.10 at 17h 51m 27s.xml">
-      <configuration name="ReverseStringTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ReverseStringTest - 2018.09.10 at 17h 51m 50s.xml">
-      <configuration name="ReverseStringTest" configurationId="JUnit" />
+    <history-entry file="RemoveVowelsCheck_sanityCheck - 2018.09.17 at 12h 33m 08s.xml">
+      <configuration name="RemoveVowelsCheck.sanityCheck" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19166666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10227273" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32919255" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49015152" visible="true" weight="0.29503107" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32919255" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32919255" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5098485" side_tool="true" weight="0.29503107" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.06832298" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48257574" weight="0.32763976" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -368,23 +309,23 @@
       <window_info anchor="right" id="Maven Projects" order="6" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1280303" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49015152" weight="0.29503107" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32919255" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5098485" side_tool="true" weight="0.29503107" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.06832298" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.48257574" weight="0.32763976" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32919255" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32919255" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -398,311 +339,107 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Repeatcharacters.java" />
-    <entry file="file://$PROJECT_DIR$/src/Reversestring.java" />
-    <entry file="file://$PROJECT_DIR$/src/Sortnumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/Recognizechar.java" />
-    <entry file="file://$PROJECT_DIR$/src/Unspecifiedsum.java" />
-    <entry file="file://$PROJECT_DIR$/src/Guessnumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/Numrepeat.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test/TestRunner.java" />
-    <entry file="file://$PROJECT_DIR$/src/Test/Firsttestifle.java" />
-    <entry file="file://$PROJECT_DIR$/src/MyClassTest.java" />
-    <entry file="file://$PROJECT_DIR$/Test/TestUnit.java">
+    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/lang/Throwable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="33" selection-start-line="1" selection-start-column="33" selection-end-line="1" selection-end-column="33" />
+        <state relative-caret-position="205">
+          <caret line="482" column="18" selection-start-line="482" selection-start-column="18" selection-end-line="482" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/StudentMarksCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Mood.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Assignment1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/ConsonantVowel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/PalindromeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/GuessNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Palindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/GuessNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloworld.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/FirstTestClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TomandJerry.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConsonantVowel.java">
+    <entry file="file://$PROJECT_DIR$/src/StudentMarks.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/ConsonantVowelTest.java">
+    <entry file="file://$PROJECT_DIR$/src/MatrixSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="47" column="60" lean-forward="true" selection-start-line="47" selection-start-column="60" selection-end-line="47" selection-end-column="60" />
+        <state relative-caret-position="60">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/LastDateCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" lean-forward="true" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/MatrixSumCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NumRepeat.java">
+    <entry file="file://$PROJECT_DIR$/src/ExceptionHandlingPractice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        <state relative-caret-position="105">
+          <caret line="7" column="53" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/NumRepeatTest.java">
+    <entry file="file://$PROJECT_DIR$/src/ConsecutiveNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="330">
+          <caret line="22" column="53" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/SortNumberTest.java">
+    <entry file="file://$PROJECT_DIR$/Test/ConsecutiveNumbersCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="215">
+          <caret line="49" column="45" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/PalindromeCheck.java">
+    <entry file="file://$PROJECT_DIR$/src/RemoveVowels.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="35" column="34" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        <state relative-caret-position="360">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/TomandJerryTest.java">
+    <entry file="file://$PROJECT_DIR$/Test/RemoveVowelsCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="30" column="61" selection-start-line="30" selection-start-column="61" selection-end-line="30" selection-end-column="61" />
+        <state relative-caret-position="315">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/UnspecifiedSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/RepeatCharactersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RepeatCharacters.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/UnspecifiedSumTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/ReverseStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RecognizeChar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test/RecognizeCharTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="55" column="50" selection-start-line="55" selection-start-column="50" selection-end-line="55" selection-end-column="50" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
+      <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>First_Project</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
