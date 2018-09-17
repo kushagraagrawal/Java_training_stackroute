@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2065b506-1973-4797-9003-f311766d6f9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/ConsecutiveNumbersCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/LastDateCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/MatrixSumCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/RemoveVowelsCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/StudentMarksCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsecutiveNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExceptionHandlingPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatrixSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RemoveVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentMarks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/ExceptionChecking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CheckingException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChessboardPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PE2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PE2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,23 +25,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2658" />
+          <entry key="JAVA" value="3847" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2658" />
+          <entry key="java" value="3847" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="19" />
         </counts>
       </usages-collector>
     </session>
@@ -59,10 +49,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/RemoveVowelsCheck.java">
+        <entry file="file://$PROJECT_DIR$/Test/ExceptionChecking.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+            <state relative-caret-position="350">
+              <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,13 +61,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RemoveVowels.java">
+        <entry file="file://$PROJECT_DIR$/src/CheckingException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -87,6 +74,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -106,6 +94,10 @@
         <option value="$PROJECT_DIR$/Test/ConsecutiveNumbersCheck.java" />
         <option value="$PROJECT_DIR$/src/RemoveVowels.java" />
         <option value="$PROJECT_DIR$/Test/RemoveVowelsCheck.java" />
+        <option value="$PROJECT_DIR$/src/ChessboardPattern.java" />
+        <option value="$PROJECT_DIR$/Test/ChessboardPatternTest.java" />
+        <option value="$PROJECT_DIR$/Test/ExceptionChecking.java" />
+        <option value="$PROJECT_DIR$/src/CheckingException.java" />
       </list>
     </option>
   </component>
@@ -150,9 +142,17 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537167879238" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537174806609" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="" />
     </key>
@@ -169,41 +169,38 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RemoveVowelsCheck.sanityCheck">
-    <configuration name="ConsecutiveNumbersCheck.consecutiveCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ExceptionChecking.nullPointerCheck">
+    <configuration name="ChessboardPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ChessboardPattern" />
+      <module name="PE3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExceptionChecking.negativeIndexCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConsecutiveNumbersCheck" />
-      <option name="METHOD_NAME" value="consecutiveCheck" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionChecking" />
+      <option name="METHOD_NAME" value="negativeIndexCheck" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsecutiveNumbersCheck.negativeNumbersCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionChecking.nullPointerCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConsecutiveNumbersCheck" />
-      <option name="METHOD_NAME" value="negativeNumbersCheck" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionChecking" />
+      <option name="METHOD_NAME" value="nullPointerCheck" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsecutiveNumbersCheck.repeatedElementCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ExceptionChecking.sanityCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="PE3" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConsecutiveNumbersCheck" />
-      <option name="METHOD_NAME" value="repeatedElementCheck" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConsecutiveNumbersCheck.sanityCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE3" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConsecutiveNumbersCheck" />
+      <option name="MAIN_CLASS_NAME" value="ExceptionChecking" />
       <option name="METHOD_NAME" value="sanityCheck" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -221,19 +218,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.ConsecutiveNumbersCheck.sanityCheck" />
-      <item itemvalue="JUnit.ConsecutiveNumbersCheck.consecutiveCheck" />
-      <item itemvalue="JUnit.ConsecutiveNumbersCheck.repeatedElementCheck" />
-      <item itemvalue="JUnit.ConsecutiveNumbersCheck.negativeNumbersCheck" />
       <item itemvalue="JUnit.RemoveVowelsCheck.sanityCheck" />
+      <item itemvalue="Application.ChessboardPattern" />
+      <item itemvalue="JUnit.ExceptionChecking.sanityCheck" />
+      <item itemvalue="JUnit.ExceptionChecking.negativeIndexCheck" />
+      <item itemvalue="JUnit.ExceptionChecking.nullPointerCheck" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ExceptionChecking.nullPointerCheck" />
+        <item itemvalue="JUnit.ExceptionChecking.negativeIndexCheck" />
+        <item itemvalue="JUnit.ExceptionChecking.sanityCheck" />
+        <item itemvalue="Application.ChessboardPattern" />
         <item itemvalue="JUnit.RemoveVowelsCheck.sanityCheck" />
-        <item itemvalue="JUnit.ConsecutiveNumbersCheck.negativeNumbersCheck" />
-        <item itemvalue="JUnit.ConsecutiveNumbersCheck.repeatedElementCheck" />
-        <item itemvalue="JUnit.ConsecutiveNumbersCheck.consecutiveCheck" />
-        <item itemvalue="JUnit.ConsecutiveNumbersCheck.sanityCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -251,39 +248,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentMarksCheck_PassStudentGrades - 2018.09.17 at 11h 14m 36s.xml">
-      <configuration name="StudentMarksCheck.PassStudentGrades" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConsecutiveNumbersCheck_sanityCheck - 2018.09.17 at 12h 13m 00s.xml">
-      <configuration name="ConsecutiveNumbersCheck.sanityCheck" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConsecutiveNumbersCheck_consecutiveCheck - 2018.09.17 at 12h 14m 24s.xml">
-      <configuration name="ConsecutiveNumbersCheck.consecutiveCheck" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConsecutiveNumbersCheck_repeatedElementCheck - 2018.09.17 at 12h 15m 45s.xml">
-      <configuration name="ConsecutiveNumbersCheck.repeatedElementCheck" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ConsecutiveNumbersCheck_negativeNumbersCheck - 2018.09.17 at 12h 16m 52s.xml">
-      <configuration name="ConsecutiveNumbersCheck.negativeNumbersCheck" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RemoveVowelsCheck_sanityCheck - 2018.09.17 at 12h 32m 29s.xml">
-      <configuration name="RemoveVowelsCheck.sanityCheck" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RemoveVowelsCheck_sanityCheck - 2018.09.17 at 12h 32m 46s.xml">
-      <configuration name="RemoveVowelsCheck.sanityCheck" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RemoveVowelsCheck_sanityCheck - 2018.09.17 at 12h 32m 56s.xml">
-      <configuration name="RemoveVowelsCheck.sanityCheck" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RemoveVowelsCheck_sanityCheck - 2018.09.17 at 12h 33m 08s.xml">
       <configuration name="RemoveVowelsCheck.sanityCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveVowelsCheck_sanityCheck - 2018.09.17 at 12h 34m 19s.xml">
+      <configuration name="RemoveVowelsCheck.sanityCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionChecking_sanityCheck - 2018.09.17 at 14h 07m 01s.xml">
+      <configuration name="ExceptionChecking.sanityCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionChecking_sanityCheck - 2018.09.17 at 14h 07m 58s.xml">
+      <configuration name="ExceptionChecking.sanityCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionChecking_negativeIndexCheck - 2018.09.17 at 14h 08m 52s.xml">
+      <configuration name="ExceptionChecking.negativeIndexCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionChecking_negativeIndexCheck - 2018.09.17 at 14h 09m 17s.xml">
+      <configuration name="ExceptionChecking.negativeIndexCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionChecking_negativeIndexCheck - 2018.09.17 at 14h 09m 35s.xml">
+      <configuration name="ExceptionChecking.negativeIndexCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionChecking_sanityCheck - 2018.09.17 at 14h 15m 35s.xml">
+      <configuration name="ExceptionChecking.sanityCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionChecking_negativeIndexCheck - 2018.09.17 at 14h 15m 39s.xml">
+      <configuration name="ExceptionChecking.negativeIndexCheck" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ExceptionChecking_nullPointerCheck - 2018.09.17 at 14h 19m 50s.xml">
+      <configuration name="ExceptionChecking.nullPointerCheck" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10227273" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23863636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -377,16 +377,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/MatrixSumCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExceptionHandlingPractice.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -414,20 +404,61 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoveVowels.java">
+    <entry file="file://$PROJECT_DIR$/Test/RemoveVowelsCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        <state relative-caret-position="315">
+          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/RemoveVowelsCheck.java">
+    <entry file="file://$PROJECT_DIR$/Test/MatrixSumCheck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="27" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/ChessboardPatternTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ChessboardPattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveVowels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="51" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CheckingException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/ExceptionChecking.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
