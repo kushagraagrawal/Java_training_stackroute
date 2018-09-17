@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2065b506-1973-4797-9003-f311766d6f9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/ExceptionChecking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckingException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ChessboardPattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/MatrixSumCheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/PE3/MatrixSumCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MatrixSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MatrixSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,23 +25,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3847" />
+          <entry key="JAVA" value="4775" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="19" />
+          <entry key="java" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3847" />
+          <entry key="java" value="4775" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="19" />
+          <entry key="JAVA" value="22" />
         </counts>
       </usages-collector>
     </session>
@@ -49,22 +49,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/ExceptionChecking.java">
+        <entry file="file://$PROJECT_DIR$/src/MatrixSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+            <state relative-caret-position="375">
+              <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#112#113#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CheckingException.java">
+        <entry file="file://$PROJECT_DIR$/src/StudentMarks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -87,9 +88,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/StudentMarks.java" />
         <option value="$PROJECT_DIR$/Test/StudentMarksCheck.java" />
-        <option value="$PROJECT_DIR$/src/MatrixSum.java" />
         <option value="$PROJECT_DIR$/src/ExceptionHandlingPractice.java" />
-        <option value="$PROJECT_DIR$/Test/MatrixSumCheck.java" />
         <option value="$PROJECT_DIR$/src/ConsecutiveNumbers.java" />
         <option value="$PROJECT_DIR$/Test/ConsecutiveNumbersCheck.java" />
         <option value="$PROJECT_DIR$/src/RemoveVowels.java" />
@@ -98,6 +97,8 @@
         <option value="$PROJECT_DIR$/Test/ChessboardPatternTest.java" />
         <option value="$PROJECT_DIR$/Test/ExceptionChecking.java" />
         <option value="$PROJECT_DIR$/src/CheckingException.java" />
+        <option value="$PROJECT_DIR$/Test/MatrixSumCheck.java" />
+        <option value="$PROJECT_DIR$/src/MatrixSum.java" />
       </list>
     </option>
   </component>
@@ -127,6 +128,12 @@
             <path>
               <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
               <item name="Java_Training" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="StudentMarks.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="PE3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java_Training" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -142,7 +149,7 @@
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537174806609" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537176567280" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
   </component>
@@ -169,9 +176,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ExceptionChecking.nullPointerCheck">
+  <component name="RunManager" selected="Application.MatrixSum">
     <configuration name="ChessboardPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ChessboardPattern" />
+      <module name="PE3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixSum" />
       <module name="PE3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -207,30 +221,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveVowelsCheck.sanityCheck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="PE3" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="RemoveVowelsCheck" />
-      <option name="METHOD_NAME" value="sanityCheck" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="JUnit.RemoveVowelsCheck.sanityCheck" />
       <item itemvalue="Application.ChessboardPattern" />
       <item itemvalue="JUnit.ExceptionChecking.sanityCheck" />
       <item itemvalue="JUnit.ExceptionChecking.negativeIndexCheck" />
       <item itemvalue="JUnit.ExceptionChecking.nullPointerCheck" />
+      <item itemvalue="Application.MatrixSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MatrixSum" />
         <item itemvalue="JUnit.ExceptionChecking.nullPointerCheck" />
         <item itemvalue="JUnit.ExceptionChecking.negativeIndexCheck" />
         <item itemvalue="JUnit.ExceptionChecking.sanityCheck" />
         <item itemvalue="Application.ChessboardPattern" />
-        <item itemvalue="JUnit.RemoveVowelsCheck.sanityCheck" />
       </list>
     </recent_temporary>
   </component>
@@ -248,9 +252,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RemoveVowelsCheck_sanityCheck - 2018.09.17 at 12h 33m 08s.xml">
-      <configuration name="RemoveVowelsCheck.sanityCheck" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="RemoveVowelsCheck_sanityCheck - 2018.09.17 at 12h 34m 19s.xml">
       <configuration name="RemoveVowelsCheck.sanityCheck" configurationId="JUnit" />
     </history-entry>
@@ -278,10 +279,12 @@
     <history-entry file="ExceptionChecking_nullPointerCheck - 2018.09.17 at 14h 19m 50s.xml">
       <configuration name="ExceptionChecking.nullPointerCheck" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ExceptionChecking_nullPointerCheck - 2018.09.17 at 14h 30m 02s.xml">
+      <configuration name="ExceptionChecking.nullPointerCheck" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23863636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -356,20 +359,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/StudentMarks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MatrixSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/LastDateCheck.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -414,16 +403,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test/MatrixSumCheck.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/ChessboardPatternTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -450,17 +429,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CheckingException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="41" lean-forward="true" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        <state relative-caret-position="260">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/ExceptionChecking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+        <state relative-caret-position="245">
+          <caret line="42" column="56" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="56" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/MatrixSumCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StudentMarks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MatrixSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="45" selection-start-line="25" selection-start-column="45" selection-end-line="25" selection-end-column="45" />
+          <folding>
+            <element signature="e#112#113#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
           </folding>
         </state>
       </provider>
