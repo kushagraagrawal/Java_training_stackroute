@@ -39,5 +39,5 @@ public class StringMatching {
         Assert.assertEquals(IndicesFound, ActualAnswer);
     }
 
-    
+
 }

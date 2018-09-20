@@ -32,7 +32,8 @@ public class SortingWordsCheck {
     @Test
     public void loremIpsumCheck() {
         String queryString = "Ge?ks Ge!ks";
-        List<String> sortedWords = new ArrayList<>(Arrays.asList("Ge?ks", "Ge!ks"));
+        List<String> sortedWords = new ArrayList<>(Arrays.asList("Ge","Ge", "ks","ks"));
+
         List<String> actualSortedWords = c.SortWords(queryString);
         System.out.println(actualSortedWords);
         Assert.assertEquals(sortedWords, actualSortedWords);
